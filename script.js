@@ -1,6 +1,6 @@
 //your code here
-const openModalBtn = document.getElementById('openModalBtn');
-const modal = document.getElementById('myModal');
+const openModalBtn = document.getElementById('open-modal');
+const modal = document.getElementById('accio-modal');
 const closeBtn = document.querySelector('.close');
 
 openModalBtn.addEventListener('click', function() {

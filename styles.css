@@ -10,13 +10,15 @@
   height: 100%;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.5);
+	display:center;
+	
 }
 
 .modal-content {
-  margin:10% 20;
-  padding: 20px;
-  border: 1px solid #888;
-  width: 80%;
+  margin:20% 10%;
+	margin-left:0px;
+  margin-right:29px;
+
 }
 
 .close {
